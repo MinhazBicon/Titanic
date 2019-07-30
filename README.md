@@ -31,7 +31,7 @@ Algorithm and their evalution
 **For Mod_1 dataset**
 
 |  NO  |   Algorithm Name   |   Type     | Highest accuracy | Precision for 0 | Precision for 1 | 
-| :--- | :----------------- | :-------- -| :--------------- | :-------------- | :-------------- | 
+| :--- | :----------------- | :--------- | :--------------- | :-------------- | :-------------- | 
 |  1   | Logistic Regresson | Classifier |      0.821       |     0.83        |      0.81       |
 |  2   |       SVM          | Classifier |      0.815       |     0.82        |      0.82       |
 |  3   |   SGDClassifier    | Classifier |      0.798       |     0.81        |      0.79       |
