@@ -36,3 +36,4 @@ Algorithm and their evolution
 |  3   |   SGDClassifier    | Clssifier |      0.798       |     0.81        |      0.79       |
 |  4   |   DecisionTree     | Clssifier |      0.815       |     0.82        |      0.82       |
 |  5   |   Random Forest    | Clssifier |      0.815       |     0.85        |      0.77       |
+|  6   |      XGBOOST       | Clssifier |      0.832       |     0.84        |      0.81       |
