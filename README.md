@@ -29,7 +29,8 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 
 **_Algorithm and their evalution_** 
 
-**For Mod_1 dataset**
+**[For Mod_1 dataset](https://github.com/NMShihab/Titanic/blob/master/Machine_learning_models_mod_1_dataset.ipynb)**
+
 
 |  NO  |   Algorithm Name   |   Type     | Highest accuracy | Precision for 0 | Precision for 1 | 
 | :--- | :----------------- | :--------- | :--------------- | :-------------- | :-------------- | 
@@ -39,3 +40,5 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 |  4   |   DecisionTree     | Classifier |      0.815       |     0.82        |      0.82       |
 |  5   |   Random Forest    | Classifier |      0.815       |     0.85        |      0.77       |
 |  6   |      XGBOOST       | Classifier |      0.832       |     0.84        |      0.81       |
+|  7   |    Naive Bayes     | Classifier |      0.776       |     0.83        |      0.71       |
+|  6   |      KNN           | Classifier |      0.821       |     0.84        |      0.79       |
