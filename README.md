@@ -12,7 +12,9 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 * Data Visualization
 * Data cleaning
 * Data encoding(Categorical to Numerical)
-* Create a new data set [Mode_1_train](https://github.com/NMShihab/Titanic/blob/master/Mod_1_tran.csv),[Mode_1_test](https://github.com/NMShihab/Titanic/blob/master/Mod_1_test.csv)
+* Create a new data sets [Mod_1_train](https://github.com/NMShihab/Titanic/blob/master/Mod_1_tran.csv),[Mod_1_test](https://github.com/NMShihab/Titanic/blob/master/Mod_1_test.csv)
+* Feature Engineering
+* Create a new data sets [Mod_2_train](https://github.com/NMShihab/Titanic/blob/master/Mod_1_tran.csv),[Mod_2_test](https://github.com/NMShihab/Titanic/blob/master/Mod_1_test.csv)
 
 **Using Language**
 * Python
