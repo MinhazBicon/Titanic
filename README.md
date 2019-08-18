@@ -14,7 +14,7 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 * Data encoding(Categorical to Numerical)
 * Create a new data sets [Mod_1_train](https://github.com/NMShihab/Titanic/blob/master/Mod_1_tran.csv),[Mod_1_test](https://github.com/NMShihab/Titanic/blob/master/Mod_1_test.csv)
 * Feature Engineering
-* Create a new data sets [Mod_2_train](https://github.com/NMShihab/Titanic/blob/master/Mod_1_tran.csv),[Mod_2_test](https://github.com/NMShihab/Titanic/blob/master/Mod_1_test.csv)
+* Create a new data sets [Mod_2_train](https://github.com/NMShihab/Titanic/blob/master/Mod_2_tran.csv),[Mod_2_test](https://github.com/NMShihab/Titanic/blob/master/Mod_2_test.csv)
 
 **Using Language**
 * Python
@@ -40,7 +40,13 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 |  2   |       SVM          | Classifier |      0.815       |     0.82        |      0.82       |
 |  3   |   SGDClassifier    | Classifier |      0.798       |     0.81        |      0.79       |
 |  4   |   DecisionTree     | Classifier |      0.815       |     0.82        |      0.82       |
-|  5   |   Random Forest    | Classifier |      0.815       |     0.85        |      0.77       |
+|  5   |   Random Forest    | Classifier |      0.843       |     0.83        |      0.86       |
 |  6   |      XGBOOST       | Classifier |      0.832       |     0.84        |      0.81       |
 |  7   |    Naive Bayes     | Classifier |      0.776       |     0.83        |      0.71       |
 |  6   |      KNN           | Classifier |      0.821       |     0.84        |      0.79       |
+
+## _Performance Measure graph_
+![](Performance.png)
+
+
+**Accourding to this table and the graph  _Random Forest_ gives us better result**
